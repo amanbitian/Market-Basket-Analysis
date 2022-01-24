@@ -12,6 +12,8 @@ What is MBA ?
 
 Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.
 
+![photo_2022-01-24_12-19-35](https://user-images.githubusercontent.com/86042628/150735635-d8139de6-fa81-438e-a756-16237ce693cc.jpg)
+
 ![Association rule MBA](https://user-images.githubusercontent.com/86042628/150663391-a86fc7b7-0070-4114-90d7-1fb74f15f707.png)
 
 
