@@ -8,6 +8,13 @@ What is MBA ?
 > Analyse what combination of product makes sense. like if I buy thoothpaste I am more likely to buy tooth brush with it, bread - butter/jam etc.
 > The reason analyst wanna know this is because ***If I want to impliment a promotion I do like to know that if I discount an item how many other items are likely customers to buy. `This allow me to discount 1 product but more than make up on this discount by making sure the customers are picking baskets or combination of products they are profitable and make sense for me as an retailer`***
 
+### What Applications of MBA?
+1. Retail/supply Markets/ FMCG Companies
+2. Insurance Companies
+3. Medical
+4. Bank/ Credic Card Companies
+5. Telecom Analyse Various Services offered by Telecom Companies and what customers are purchasing
+
 ## Association Rules:
 
 Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.
